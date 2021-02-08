@@ -8,4 +8,4 @@ replaced org.spongepowered, org.json, and club.minnced as a precaution
 repaced the discord rpc bianaries as a precaution
 
 
-Buildable src soon:tm
+Buildable src soon
